@@ -1,6 +1,8 @@
 
 import './App.css'
-import ShortCircuitMethod from './Components/ShortCircuitMethod/ShortCircuitMethod'
+import Cleanup from './Components/useEffect_Hooks/Cleanup'
+
+
 
 
 
@@ -11,8 +13,8 @@ function App() {
     <>
      <div className="container">
        
-       <ShortCircuitMethod/>
-    
+      
+      <Cleanup/>
      </div>
          
     </>
