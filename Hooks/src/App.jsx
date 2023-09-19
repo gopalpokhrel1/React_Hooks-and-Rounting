@@ -1,13 +1,19 @@
 
 import './App.css'
-import Array from './Components/Array/Array'
+import ShortCircuitMethod from './Components/ShortCircuitMethod/ShortCircuitMethod'
+
+
 
 function App() {
 
 
   return (
     <>
-    <Array/>
+     <div className="container">
+       
+       <ShortCircuitMethod/>
+    
+     </div>
          
     </>
   )
