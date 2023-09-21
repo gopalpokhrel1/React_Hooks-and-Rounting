@@ -1,5 +1,6 @@
 
 import './App.css'
+import UseReducer from './Components/UseReducer/UseReducer'
 import UseRef from './Components/useRef_Hooks/UseRef'
 
 
@@ -15,7 +16,7 @@ function App() {
      <div className="container">
        
       
-             <UseRef/>
+             <UseReducer/>
      </div>
          
     </>
