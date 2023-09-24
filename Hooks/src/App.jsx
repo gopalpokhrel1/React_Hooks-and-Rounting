@@ -1,7 +1,8 @@
 
 import './App.css'
-import UseReducer from './Components/UseReducer/UseReducer'
-import UseRef from './Components/useRef_Hooks/UseRef'
+import UseContextApi from './Components/UseContentApi/UseContextApi'
+
+
 
 
 
@@ -16,7 +17,7 @@ function App() {
      <div className="container">
        
       
-             <UseReducer/>
+<UseContextApi/>
      </div>
          
     </>
